@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-color-de-tus-mentiras/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for El color de tus mentiras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-color-de-tus-mentiras/) |
+| **Get License** | [Music Rights & Licensing for El color de tus mentiras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-color-de-tus-mentiras/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me vendiste un cielo falso, baby, I can see it now
+> El color de tus mentiras ya no me lastima, wow
+> Pero en medio de la disco, you know I hold it down
+> Tú jugaste con mi mente, pero yo tengo la crown
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
