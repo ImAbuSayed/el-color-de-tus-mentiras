@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El color de tus mentiras
+
+This log tracks the cryptographic history and versioning for the song **El color de tus mentiras** (el-color-de-tus-mentiras).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-14T20:48:04.138292 | `v1` | `38b9336334c846335d1ba93c07be5057103ba17d676235cea56bbdc3b68cf504` | `639776dd88fad7afc4e129b92d297d620b42a0ab00dc384f2db27a7786bd0260` | `2026-06-14_el-color-de-tus-mentiras-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

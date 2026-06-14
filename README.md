@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-color-de-tus-mentiras/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for El color de tus mentiras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-color-de-tus-mentiras/) |
+| **Get License** | [Obtain a Music License for El color de tus mentiras](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-color-de-tus-mentiras/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `38b9336334c846335d1ba93c07be5057103ba17d676235cea56bbdc3b68cf504` |
 | **Timestamp** | June 14, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
